@@ -1,7 +1,6 @@
 import React, { useState, createRef } from "react";
 import "./ExperienceCard.scss";
 import ColorThief from "colorthief";
-import camelotSvg from "../../assets/images/top-bar-logo-1.svg";
 export default function ExperienceCard({ cardInfo, isDark }) {
   const [colorArrays, setColorArrays] = useState([]);
   const imgRef = createRef();
