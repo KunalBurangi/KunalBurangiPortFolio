@@ -62,7 +62,7 @@ if (USE_GITHUB_DATA === "true") {
     port: 443,
     method: "POST",
     headers: {
-      Authorization: `Bearer ${GITHUB_TOKEN}`,
+      Authorization: `Bearer ${GITHUB_TOKEN.split(":")[1]}`,
       "User-Agent": "Node"
     }
   };
