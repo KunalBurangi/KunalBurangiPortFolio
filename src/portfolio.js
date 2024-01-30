@@ -302,7 +302,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
@@ -317,7 +317,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -356,7 +356,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-8793342757",
+  number: "+91-8793342757",
   email_address: "kunal.burangi96@gmail.com"
 };
 
