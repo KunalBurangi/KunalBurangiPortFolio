@@ -23,10 +23,10 @@ const greeting = {
   username: "Kunal Burangi",
   title: "Hi all, I'm Kunal",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Nod$e S  and some other cool libraries and frameworks."
+    "Dedicated Full Stack Developer with over 6.5+ years of hands-on experience, specializing in Node JS, JavaScript, TypeScript, .NET, React JS, Angular, SQL Server MySQL, and Docker. Proficient in utilizing technologies such as Git, Docker, and Kubernetes Beginner in Azure to enhance development processes. Eager to leverage expertise and drive innovation in a dynamic team environment."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1JRGt25LNaciJHHMK3RyIcnPZVtZJLnRX", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1CO2JJVnXbWTebhNiktMLRE8vyd4daUlc/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
